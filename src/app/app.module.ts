@@ -21,7 +21,8 @@ import { MainPage } from '../pages/main/main';
   bootstrap: [IonicApp],
   entryComponents: [
     MyApp,
-    HomePage
+    HomePage,
+    MainPage
   ],
   providers: [
     StatusBar,
